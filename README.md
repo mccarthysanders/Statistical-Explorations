@@ -1,1 +1,2 @@
 # Statistical-Explorations
+This repository serves as a dedicated space for storing Jupyter notebooks designed for performing statistical calculations. Each notebook is structured to provide clear explanations, code implementations, and examples to facilitate understanding and reproducibility. The content covers various statistical methods, including descriptive analysis, inferential testing, regression modeling, and data visualization. 
